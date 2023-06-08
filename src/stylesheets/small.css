@@ -1,6 +1,6 @@
 /* ---Main--- */
 .main {
-  background: #2b2c30;
+  background: #0241ff67;
   float: left;
   height: calc(100% - 70px);
   overflow: auto;
@@ -8,7 +8,6 @@
   margin: 20px 40px 90px 40px;
   position: relative;
 }
-
 
 /* ---Small Screen--- */
 
