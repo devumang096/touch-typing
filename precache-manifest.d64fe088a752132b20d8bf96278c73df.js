@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ee01786ac00283578a66",
-    "url": "/touch-typing/static/css/main.86606c62.chunk.css"
+    "revision": "86e6cf7677d51dbfc38f",
+    "url": "/touch-typing/static/css/main.e9095a55.chunk.css"
   },
   {
-    "revision": "ee01786ac00283578a66",
-    "url": "/touch-typing/static/js/main.ee01786a.chunk.js"
+    "revision": "86e6cf7677d51dbfc38f",
+    "url": "/touch-typing/static/js/main.86e6cf76.chunk.js"
   },
   {
     "revision": "520733ebf9fdeada8325",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/touch-typing/static/js/runtime~main.d3a70c6b.js"
   },
   {
-    "revision": "6edc040ae51723766c5d76f74dceaf76",
+    "revision": "903c9105adc4d4c8a9ee064f3badd956",
     "url": "/touch-typing/index.html"
   }
 ];
