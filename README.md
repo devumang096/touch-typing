@@ -1,5 +1,3 @@
-Certainly! Here's a basic README file for the provided code:
-
 # Typing Practicer
 
 This is a web application for practicing typing skills. It provides various exercises and tracks your progress.
